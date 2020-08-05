@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">library_virtual_hosts</string>
+
+    <string name="dns_server">114.114.114.114</string>
+</resources>
